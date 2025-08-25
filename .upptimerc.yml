@@ -4,10 +4,10 @@ repo: status
 sites:
   - name: KomplettNettbutikk.no
     url: https://www.komplettnettbutikk.no
-  - name: Loadbalancer 1
-    url: https://c1.komplettnettbutikk.no
-  - name: Loadbalancer 2
-    url: https://c2.komplettnettbutikk.no
+  - name: Reverse proxy 1
+    url: $RP1
+  - name: Reverse proxy 2
+    url: $RP2
 status-website:
   cname: status.komplettnettbutikk.no
   logoUrl: https://static.komplettnettbutikk.no/logoer/landscape-color-on-light-back.svg
