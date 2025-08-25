@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1454,
-    "timeDay": 1454,
-    "timeWeek": 1454,
-    "timeMonth": 1454,
-    "timeYear": 1454,
+    "time": 1411,
+    "timeDay": 1411,
+    "timeWeek": 1411,
+    "timeMonth": 1411,
+    "timeYear": 1411,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Registrering",
+    "url": "$REGISTERING",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "registrering",
+    "status": "down",
+    "uptime": "6.10%",
+    "uptimeDay": "6.10%",
+    "uptimeWeek": "6.10%",
+    "uptimeMonth": "6.10%",
+    "uptimeYear": "6.10%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   },
   {
     "name": "Reverse proxy 1",
@@ -34,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 8
     }
   },
   {
@@ -54,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 8
     }
   }
 ]
