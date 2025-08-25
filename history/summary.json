@@ -22,19 +22,19 @@
     "url": "$REGISTERING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "registrering",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.80%",
+    "uptimeDay": "4.80%",
+    "uptimeWeek": "4.80%",
+    "uptimeMonth": "4.80%",
+    "uptimeYear": "4.80%",
+    "time": 632,
+    "timeDay": 632,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 3
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$RP1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reverse-proxy-1",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.91%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.91%",
+    "uptimeMonth": "0.91%",
+    "uptimeYear": "0.91%",
+    "time": 632,
+    "timeDay": 632,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-08-25": 8
+      "2025-08-25": 10
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$RP2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reverse-proxy-2",
-    "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.54%",
+    "uptimeDay": "0.54%",
+    "uptimeWeek": "0.54%",
+    "uptimeMonth": "0.54%",
+    "uptimeYear": "0.54%",
+    "time": 421,
+    "timeDay": 421,
+    "timeWeek": 421,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2025-08-25": 8
+      "2025-08-25": 10
     }
   }
 ]
