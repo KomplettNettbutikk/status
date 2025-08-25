@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1635,
-    "timeDay": 1635,
-    "timeWeek": 1635,
-    "timeMonth": 1635,
-    "timeYear": 1635,
+    "time": 1512,
+    "timeDay": 1512,
+    "timeWeek": 1512,
+    "timeMonth": 1512,
+    "timeYear": 1512,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 582,
-    "timeWeek": 582,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "time": 522,
+    "timeDay": 522,
+    "timeWeek": 522,
+    "timeMonth": 522,
+    "timeYear": 522,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://c2.komplettnettbutikk.no",
     "icon": "https://icons.duckduckgo.com/ip3/c2.komplettnettbutikk.no.ico",
     "slug": "loadbalancer-2",
-    "status": "down",
-    "uptime": "6.06%",
-    "uptimeDay": "6.06%",
-    "uptimeWeek": "6.06%",
-    "uptimeMonth": "6.06%",
-    "uptimeYear": "6.06%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
+    "time": 490,
+    "timeDay": 490,
+    "timeWeek": 490,
+    "timeMonth": 490,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 28
     }
   }
 ]
