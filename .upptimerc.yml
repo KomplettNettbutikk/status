@@ -4,10 +4,14 @@ repo: status
 sites:
   - name: KomplettNettbutikk.no
     url: https://www.komplettnettbutikk.no
+  - name: Registrering
+    url: $REGISTERING
   - name: Reverse proxy 1
     url: $RP1
+    __dangerous__body_down_if_text_missing: 'OK'
   - name: Reverse proxy 2
     url: $RP2
+    __dangerous__body_down_if_text_missing: 'OK'
 status-website:
   cname: status.komplettnettbutikk.no
   logoUrl: https://static.komplettnettbutikk.no/logoer/landscape-color-on-light-back.svg
